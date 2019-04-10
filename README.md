@@ -11,3 +11,5 @@ Technology used in this project:
  - Html/css
  - JavaScript
  - GitHub API
+
+small gif demo: https://giphy.com/gifs/8P1qw2AlYujk2ELVRH
